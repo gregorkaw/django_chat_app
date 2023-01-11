@@ -1,4 +1,4 @@
-![]https://github.com/gregorkaw/django_chat_app/blob/master/Untitled.gif
+![](https://github.com/gregorkaw/django_chat_app/blob/master/Untitled.gif)
 
 # django_chat_app
 Simple pet project with django to create a real time chat application
